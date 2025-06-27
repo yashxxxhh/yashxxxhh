@@ -1,16 +1,18 @@
-## Hi there 👋
+  Computer Science Undergrad | Engineering Tomorrow’s Digital Solutions  
 
-<!--
-**yashxxxhh/yashxxxhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+-  Passionate about building scalable, human-centered software
+-  Fuelled by curiosity, coffee, and the occasional StackOverflow meltdown
+-  Exploring the fascinating world of [insert: AI, cybersecurity, full-stack dev — pick your domain]
+-  Love collaborating on impactful open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# What I’m Working On
+
+- Next-gen web apps / ML models / security tools
+-  Strengthening my skills in frameworks, languages
+-  Academic research and innovation projects
+
+*Building the future, one commit at a time. Let’s ship something legendary together!*
+
