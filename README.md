@@ -3,8 +3,6 @@
 # About Me
 
 -  Passionate about building scalable, human-centered software
--  Fuelled by curiosity, coffee, and the occasional StackOverflow meltdown
--  Exploring the fascinating world of [insert: AI, cybersecurity, full-stack dev — pick your domain]
 -  Love collaborating on impactful open-source projects
 
 
