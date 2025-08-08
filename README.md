@@ -1,4 +1,4 @@
-  Computer Science Undergrad | Engineering Tomorrow’s Digital Solutions  
+  Computer Science Undergrad   
 
 # About Me
 
