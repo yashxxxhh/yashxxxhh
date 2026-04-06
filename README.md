@@ -12,5 +12,5 @@
 -  Strengthening my skills in frameworks, languages
 -  Academic research and innovation projects
 
-*Building the future, one commit at a time. Let’s ship something legendary together!*
+Building the future, one commit at a time. Let’s ship something legendary together!
 
